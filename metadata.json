@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Maison & Atelier - Ultra-Luxury E-Commerce & Control Center",
+  "description": "An ultra-premium Pinterest-inspired luxury e-commerce storefront and all-in-one executive admin control center featuring real-time product, order, inventory, revenue analytics, and website design customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
